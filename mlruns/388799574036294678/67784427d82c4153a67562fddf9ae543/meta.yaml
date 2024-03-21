@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rudy.enero/PycharmProjects/MLflowProject/mlruns/388799574036294678/67784427d82c4153a67562fddf9ae543/artifacts
+end_time: 1711054460185
+entry_point_name: ''
+experiment_id: '388799574036294678'
+lifecycle_stage: active
+run_id: 67784427d82c4153a67562fddf9ae543
+run_name: hilarious-perch-901
+run_uuid: 67784427d82c4153a67562fddf9ae543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711054457290
+status: 3
+tags: []
+user_id: rudy.enero

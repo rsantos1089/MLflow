@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rudy.enero/PycharmProjects/MLflowProject/mlruns/388799574036294678/9168c20a3e7448e09b93c24c18d7a2e0/artifacts
+end_time: 1711053409519
+entry_point_name: ''
+experiment_id: '388799574036294678'
+lifecycle_stage: active
+run_id: 9168c20a3e7448e09b93c24c18d7a2e0
+run_name: rogue-owl-112
+run_uuid: 9168c20a3e7448e09b93c24c18d7a2e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711053405921
+status: 3
+tags: []
+user_id: rudy.enero
